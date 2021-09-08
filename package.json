@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zhirrr/Zhirrr-Api.git"
+    "url": "git+https://github.com/LanzVian/LanzApi.git"
   },
   "keywords": [
     "simple",
@@ -16,10 +16,10 @@
     "rest",
     "api"
   ],
-  "author": "Zhirrr",
+  "author": "LanzVian",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zhirrr/Zhirrr-Api/issues"
+    "url": "https://github.com/LanzVian/LanzApi/issues"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -29,7 +29,7 @@
     "cheerio": "^1.0.0-rc.5",
     "child_process": "^1.0.2",
     "cors": "^2.8.5",
-    "dotenv": "^10.0.0",
+    "dotenv": "^8.2.0",
     "emoji-api": "^1.0.2",
     "express": "^4.17.1",
     "fbdl-core": "^1.0.2",
@@ -39,7 +39,7 @@
     "instatouch": "^2.3.3",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
-    "mongodb": "^4.0.0",
+    "mongodb": "^3.6.3",
     "monk": "^7.3.3",
     "morgan": "^1.10.0",
     "needle": "^2.6.0",
@@ -54,5 +54,5 @@
     "ytdl-core": "^4.5.0",
     "zrapi": "0.0.6"
   },
-  "homepage": "https://github.com/Zhirrr/Zhirrr-Api#readme"
+  "homepage": "https://github.com/LanzVian/LanzApi#readme"
 }
